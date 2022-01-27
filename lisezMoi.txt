@@ -31,7 +31,7 @@ sur la colline de loinAurevoir. Par chance il y avait la fusée, le capitaine sa
     -rangée 2 = 2 ALIEN vert (alien2)
     -rangée 3 = 1 ALIEN violet (alien1)
     Centrez les Aliens au millieu de la page web
-    En version *téléphone il ne doit rester qu'un ALIEN (alien violet)
+    En version *téléph1one il ne doit rester qu'un ALIEN (alien violet)
 
     => ATTENTION Vous ne pouvez pas supprimer les images ALIEN
     ou en ajouter de nouvelles ou modifier leurs places avec HTML / Completez la balise ALT des images
